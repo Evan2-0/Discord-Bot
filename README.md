@@ -1,2 +1,5 @@
-# Discord-Bot
-Just a Discord Bot a Bit Buggy as it's still in Beta (i Would love bug reports and or any Pointers as to fix, clean, or just to make my Discord Bot go Faster
+# Discord - Bot
+# How To Run
+Open Command Prompt, type, cd " were it's located unless running on a vps , Dedi , or cloud service in wich case skip this step", after that type node bot.js.
+# Owners Notes:
+Please do not copy my work as you learn nothing at all pleas learn off of this and from other sources copying this directly could result in getting you in major trouble Thank You!
